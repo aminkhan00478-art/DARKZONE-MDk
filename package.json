@@ -11,6 +11,7 @@
   "start": "node index.js"
   }
   "dependencies": {
+    "npm install"
     "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
