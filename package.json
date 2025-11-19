@@ -9,8 +9,12 @@
   },
   "scripts": {
   "start": "node index.js"
-  }
+  },
+  {
+  "test": "echo \"no tests\" && exit 0"
+  },
   "dependencies": {
+    "baileys": "^4.0.0"
     "npm install"
     "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
